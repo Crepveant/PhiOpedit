@@ -23,7 +23,7 @@ It is designed to allow flexible creation and editing of rhythm game chart data,
 ## License
 
 This project is licensed under the **BSD 3-Clause License (with a Non-Commercial Clause)**.  
-Please refer to [LICENSE](LICENSE.txt) for full details.
+Please refer to [LICENSE](LICENSE) for full details.
 
 > **Commercial use is prohibited.**  
 > Redistribution/modification is allowed under the same license terms.
