@@ -1,0 +1,51 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="fonts/Exo-Regular.otf">assets/fonts/Exo-Regular.otf</file>
+    <file alias="fonts/cmdysj.ttf">assets/fonts/cmdysj.ttf</file>
+
+    <file alias="images/Drag.png">assets/images/Drag.png</file>
+    <file alias="images/DragHL.png">assets/images/DragHL.png</file>
+    <file alias="images/Flick2.png">assets/images/Flick2.png</file>
+    <file alias="images/Flick2HL.png">assets/images/Flick2HL.png</file>
+    <file alias="images/Hold.png">assets/images/Hold.png</file>
+    <file alias="images/Hold2.png">assets/images/Hold2.png</file>
+    <file alias="images/Hold3.png">assets/images/Hold3.png</file>
+    <file alias="images/Hold4.png">assets/images/Hold4.png</file>
+    <file alias="images/HoldEnd.png">assets/images/HoldEnd.png</file>
+    <file alias="images/HoldHead.png">assets/images/HoldHead.png</file>
+    <file alias="images/Tap.png">assets/images/Tap.png</file>
+    <file alias="images/TapHL.png">assets/images/TapHL.png</file>
+
+    <file alias="images/HE/img-1.png">assets/images/HE/img-1.png</file>
+    <file alias="images/HE/img-2.png">assets/images/HE/img-2.png</file>
+    <file alias="images/HE/img-3.png">assets/images/HE/img-3.png</file>
+    <file alias="images/HE/img-4.png">assets/images/HE/img-4.png</file>
+    <file alias="images/HE/img-5.png">assets/images/HE/img-5.png</file>
+    <file alias="images/HE/img-6.png">assets/images/HE/img-6.png</file>
+    <file alias="images/HE/img-7.png">assets/images/HE/img-7.png</file>
+    <file alias="images/HE/img-8.png">assets/images/HE/img-8.png</file>
+    <file alias="images/HE/img-9.png">assets/images/HE/img-9.png</file>
+    <file alias="images/HE/img-10.png">assets/images/HE/img-10.png</file>
+    <file alias="images/HE/img-11.png">assets/images/HE/img-11.png</file>
+    <file alias="images/HE/img-12.png">assets/images/HE/img-12.png</file>
+    <file alias="images/HE/img-13.png">assets/images/HE/img-13.png</file>
+    <file alias="images/HE/img-14.png">assets/images/HE/img-14.png</file>
+    <file alias="images/HE/img-15.png">assets/images/HE/img-15.png</file>
+    <file alias="images/HE/img-16.png">assets/images/HE/img-16.png</file>
+    <file alias="images/HE/img-17.png">assets/images/HE/img-17.png</file>
+    <file alias="images/HE/img-18.png">assets/images/HE/img-18.png</file>
+    <file alias="images/HE/img-19.png">assets/images/HE/img-19.png</file>
+    <file alias="images/HE/img-20.png">assets/images/HE/img-20.png</file>
+    <file alias="images/HE/img-21.png">assets/images/HE/img-21.png</file>
+    <file alias="images/HE/img-22.png">assets/images/HE/img-22.png</file>
+    <file alias="images/HE/img-23.png">assets/images/HE/img-23.png</file>
+    <file alias="images/HE/img-24.png">assets/images/HE/img-24.png</file>
+    <file alias="images/HE/img-25.png">assets/images/HE/img-25.png</file>
+    <file alias="images/HE/img-26.png">assets/images/HE/img-26.png</file>
+    <file alias="images/HE/img-27.png">assets/images/HE/img-27.png</file>
+    <file alias="images/HE/img-28.png">assets/images/HE/img-28.png</file>
+    <file alias="images/HE/img-29.png">assets/images/HE/img-29.png</file>
+    <file alias="images/HE/img-30.png">assets/images/HE/img-30.png</file>
+    <file alias="images/HE/img-31.png">assets/images/HE/img-31.png</file>
+  </qresource>
+</RCC>
