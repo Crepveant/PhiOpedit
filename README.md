@@ -7,6 +7,14 @@ It is designed to allow flexible creation and editing of rhythm game chart data,
 
 ---
 
+## ⚠️ Notice ⚠️
+
+PhiOpedit is currently an **early-stage prototype**, primarily serving as a **UI demonstration**.  
+While it presents the visual layout and interface concepts of a chart editor, it does **not yet offer functional editing capabilities**.  
+It is **not suitable for practical use** at this stage. Feature development is ongoing.
+
+---
+
 ## Assets and Credits
 
 - **Fonts:**  
@@ -22,7 +30,7 @@ It is designed to allow flexible creation and editing of rhythm game chart data,
 
 ## License
 
-This project is licensed under the **BSD 3-Clause License (with a Non-Commercial Clause)**.  
+Licensed under a **custom BSD 3-Clause Non-Commercial License.**  
 Please refer to [LICENSE](LICENSE) for full details.
 
 > **Commercial use is prohibited.**  
