@@ -12,6 +12,24 @@ Item {
 
     width: 540
     height: 720
+    focus: true
+    Keys.priority: Keys.BeforeItem
+
+    Keys.onPressed: (event) => {
+        if (event.key === Qt.Key_Up) {
+            if (selectedIndex > 0) {
+                selectedIndex--
+                selectedChanged()
+            }
+            event.accepted = true
+        } else if (event.key === Qt.Key_Down) {
+            if (selectedIndex < songs.length - 1) {
+                selectedIndex++
+                selectedChanged()
+            }
+            event.accepted = true
+        }
+    }
 
     Canvas {
         id: bg

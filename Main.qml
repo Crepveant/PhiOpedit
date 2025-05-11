@@ -21,7 +21,13 @@ ApplicationWindow {
             Component.onCompleted: {
                 strip.songs = songLoader.loadSongs()
             }
+        }
 
+        SongCover {
+            id: cover
+            songs: strip.songs
+            selectedIndex: strip.selectedIndex
+            skewRate: strip.skewRate
         }
     }
     FontLoader {

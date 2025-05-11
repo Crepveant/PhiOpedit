@@ -36,6 +36,7 @@ qt_add_qml_module(PhiOpedit
         SongLoader.cpp
         RESOURCES README.md
         RESOURCES LICENSE
+        QML_FILES SongCover.qml
 )
 
 set_target_properties(PhiOpedit PROPERTIES

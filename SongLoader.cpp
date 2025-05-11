@@ -37,6 +37,11 @@ QVariantList SongLoader::loadSongs() {
             }
 
             if (!songInfo.isEmpty()) {
+                if (songInfo.contains("Picture")) {
+                    QString picName = songInfo["Picture"].toString();
+                    QString picFullPath = songDir.absoluteFilePath(picName);
+                    songInfo["Picture"] = "file://" + picFullPath;
+                }
                 songs.append(songInfo);
             }
         }
